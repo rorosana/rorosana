@@ -15,7 +15,7 @@
 ```javascript
 const rosana = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java],//I'm learning
+  code: [Javascript, HTML, CSS, Java, PHP],//I'm learning
   tools: [React, Node],//I'm learning
   }  
 ```
