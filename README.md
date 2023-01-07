@@ -16,7 +16,7 @@
 const rosana = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java, PHP],//I'm learning
-  tools: [React, Node],//I'm learning
+  tools: [React, Node],//that I want to learn!
   }  
 ```
 
