@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 
-<p><em>Web Developer</br>Currently doing an intership in Accenture
+<p><em>Web Developer</br>Currently working in Accenture
 </em></p>
 
 
