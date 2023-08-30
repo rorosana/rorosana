@@ -16,7 +16,7 @@
 const rosana = {
   pronouns: "she" | "her",
   code: [JavaScript, HTML, CSS, Java, PHP, TypeScript, Flutter],
-  tools: [React, Redux, Node, MongoDB, SQL, Angular],// ;-)
+  tools: [React, Redux, Express, Node, MongoDB, SQL, Angular],// ;-)
   }  
 ```
 
