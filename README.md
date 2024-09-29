@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 
-<p><em>Junior Dev</br>Currently working in Shunk
+<p><em>Junior Dev</br>Currently working in Schunk
 </em></p>
 
 
