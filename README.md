@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 
-<p><em>Junior Dev</br>Currently working at Schunk
+<p><em>FullStack Dev</br>Currently working at Schunk
 </em></p>
 
 
@@ -15,8 +15,8 @@
 ```javascript
 const rosana = {
   pronouns: "she" | "her",
-  code: [JavaScript, HTML, CSS, Java, PHP, TypeScript, Flutter],
-  tools: [React, Redux, Express, Node, MongoDB, SQL, Angular]// ;-)
+  code: [JavaScript, Kotlin, Java, PHP, TypeScript, Flutter],
+  tools: [React, Redux, Express, Node, MongoDB, SQL]// ;-)
   }  
 ```
 
